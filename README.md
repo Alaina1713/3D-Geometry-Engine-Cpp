@@ -1,13 +1,13 @@
 # 3D Geometry Engine in C++
 
-## 🚀 Project Overview
+## Project Overview
 This is a **3D Geometry Engine** written in C++ that allows you to model basic 3D objects, calculate their **volume**, **surface area**, and **bounding boxes**, and perform simple queries on a scene. The project is designed using **Object-Oriented Programming (OOP)** principles, file handling, and the C++ Standard Library (STL).  
 
 This project is **perfect for a resume**, showing practical skills in C++, OOP, file I/O, and modular code design.
 
 ---
 
-## 🎯 Features
+## Features
 - Supports multiple 3D objects:  
   - Sphere  
   - Cube  
@@ -19,7 +19,7 @@ This project is **perfect for a resume**, showing practical skills in C++, OOP, 
 - Fully modular and easy to extend with additional 3D shapes.  
 - Demonstrates **shared pointers** and STL containers.  
 
-## 🧩 Code Highlights
+## Code Highlights
 
 - Object-Oriented Design: Base class Object3D with derived classes Sphere, Cube, Cylinder.
 - STL Usage: Uses vector to store multiple objects.
@@ -27,13 +27,13 @@ This project is **perfect for a resume**, showing practical skills in C++, OOP, 
 - File Handling: Reads input from scene.txt and writes output to results.txt.
 - Extensible: Adding a new 3D shape requires minimal changes.
 
-## 🔧 Tools & Requirements
+## Tools & Requirements
 
 - C++ compiler: g++ (version >= 5.0 recommended)
 - Optional IDE: VS Code, CLion, or any C++ editor
 - OS: Ubuntu 24.04 LTS recommended (or Windows with MinGW)
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Add more 3D shapes: Cone, Torus, Pyramid.
 - Implement transformations: Translate, Scale, Rotate objects.
