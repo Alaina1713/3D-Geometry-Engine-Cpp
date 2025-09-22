@@ -1,0 +1,7 @@
+SPHERE Center(0,0,0) r=5 | Surface Area: 314.159 | Volume: 523.599
+CUBE Center(2,2,2) side=4 | Surface Area: 96 | Volume: 64
+CYLINDER Base(0,0,0) r=3 h=7 | Surface Area: 188.496 | Volume: 197.92
+
+--- Queries ---
+Nearest to (1,1,1): CUBE Center(2,2,2) side=4
+Objects in BoundingBox: SPHERE Center(0,0,0) r=5, CUBE Center(2,2,2) side=4,
