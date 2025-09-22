@@ -1,0 +1,7 @@
+3D-Geometry-Engine/
+ ├── src/
+ │    └── main.cpp
+ ├── data/
+ │    └── scene.txt   (sample input)
+ ├── README.md
+ └── .gitignore
