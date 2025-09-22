@@ -1,0 +1,5 @@
+#sample output
+
+Sphere Sphere1 0 0 0 5
+Cube Cube1 10 10 10 4
+Cylinder Cylinder1 5 5 0 3 10
