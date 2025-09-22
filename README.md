@@ -3,7 +3,6 @@
 ## Project Overview
 This is a **3D Geometry Engine** written in C++ that allows you to model basic 3D objects, calculate their **volume**, **surface area**, and **bounding boxes**, and perform simple queries on a scene. The project is designed using **Object-Oriented Programming (OOP)** principles, file handling, and the C++ Standard Library (STL).  
 
-This project is **perfect for a resume**, showing practical skills in C++, OOP, file I/O, and modular code design.
 
 ---
 
