@@ -39,3 +39,26 @@
 
 # debug information files
 *.dwo
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Backup files
+*~
+*.swp
+
+# Logs
+*.log
